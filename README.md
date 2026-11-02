@@ -18,3 +18,4 @@ Este projeto faz parte do Sprint 8 (Métodos em JavaScript e manipulação do DO
 - CSS3 (metodologia BEM)
 - JavaScript
 
+
